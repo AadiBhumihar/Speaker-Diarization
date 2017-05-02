@@ -1,1 +1,3 @@
-To-do list web app, organize and share your to-do's
+speaker-diarization
+
+A basic unsupervised Speaker Diarization project using Matlab
